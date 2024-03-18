@@ -1,5 +1,5 @@
 import { Todos } from "./class/Todos.js";
-const BACKEND_ROOT_URL = "https://todo-backend-evj2.onrender.com/";
+const BACKEND_ROOT_URL = "https://todo-backend-evj2.onrender.com";
 const list = document.querySelector("ul");
 const input = document.querySelector("input");
 
